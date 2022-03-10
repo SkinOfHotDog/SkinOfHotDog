@@ -17,7 +17,7 @@
 ![Plotly](https://img.shields.io/static/v1?logo=Plotly&label=&message=Plotly&color=111&logoColor=AAA&style=flat-square&link=)
 ![docker](https://img.shields.io/static/v1?logo=docker&label=&message=docker&color=111&logoColor=AAA&style=flat-square)
 
-**MS Data Science @ Denver University** &#12299;_Working on leveling up my automation and anomaly detection skills with ML_
+**MS Data Science @ Denver University** &#12299;_Leveling up my automation and anomaly detection skills with ML_
 <br/>
 **Competitive Gamer** &#12299;_Obsessed with combining esports and data science_
 
