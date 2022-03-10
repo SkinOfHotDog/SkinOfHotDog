@@ -16,7 +16,6 @@
 ![SciPy](https://img.shields.io/static/v1?logo=SciPy&label=&message=SciPy&color=111&logoColor=AAA&style=flat-square&link=)
 ![Plotly](https://img.shields.io/static/v1?logo=Plotly&label=&message=Plotly&color=111&logoColor=AAA&style=flat-square&link=)
 ![docker](https://img.shields.io/static/v1?logo=docker&label=&message=docker&color=111&logoColor=AAA&style=flat-square)
-&nbsp;&nbsp;&nbsp;
 
 **MS Data Science @ Denver University** &#12299;_Working on leveling up my automation and anomaly detection skills with ML_
 <br/>
