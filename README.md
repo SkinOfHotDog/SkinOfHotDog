@@ -10,6 +10,7 @@
 ![MySQL](https://img.shields.io/static/v1?logo=MySQL&label=&message=MySQL&color=111&logoColor=AAA&style=flat-square&link=)
 &nbsp;&nbsp;&nbsp;
 ![tools](https://img.shields.io/static/v1?label=&message=tools:&color=555&style=flat-square)
+![Jupyter](https://img.shields.io/static/v1?logo=Jupyter&label=&message=Jupyter&color=111&logoColor=AAA&style=flat-square)
 ![Numpy](https://img.shields.io/static/v1?logo=Numpy&label=&message=Numpy&color=111&logoColor=AAA&style=flat-square&link=)
 ![Pandas](https://img.shields.io/static/v1?logo=Pandas&label=&message=Pandas&color=111&logoColor=AAA&style=flat-square&link=)
 ![SciPy](https://img.shields.io/static/v1?logo=SciPy&label=&message=SciPy&color=111&logoColor=AAA&style=flat-square&link=)
