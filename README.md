@@ -21,9 +21,17 @@
 <br/>
 **Competitive Gamer** &#12299;_Obsessed with combining esports and data science_
 
+<br/>
+
+<a href="https://www.buymeacoffee.com/astopher">
+  <img align="left" alt="Buy me a coffee" width="25px" src="https://www.svgrepo.com/show/1866/coffee-cup.svg"/>
+  Buy me a coffee
+</a> 
+
 ----
 <a href="https://linkedin.com/in/aaron-stopher">
   <img align="left" alt="Aaron's LinkedIn" width="25px" src="https://www.svgrepo.com/show/75820/linkedin.svg"/>
 </a>
 
 | &nbsp;&nbsp;&nbsp; Open Source Work : <sub>&#9660; &#9660; &#9660;</sub>
+
