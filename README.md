@@ -23,11 +23,6 @@
 
 <br/>
 
-<a href="https://www.buymeacoffee.com/astopher">
-  <img align="left" alt="Buy me a coffee" width="25px" src="https://www.svgrepo.com/show/1866/coffee-cup.svg"/>
-  Buy me a coffee
-</a> 
-
 ----
 <a href="https://linkedin.com/in/aaron-stopher">
   <img align="left" alt="Aaron's LinkedIn" width="25px" src="https://www.svgrepo.com/show/75820/linkedin.svg"/>
