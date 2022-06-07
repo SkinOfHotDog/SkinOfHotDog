@@ -1,4 +1,6 @@
-### Hi, I'm Aaron! &nbsp;&nbsp; <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> &nbsp;&nbsp; I automate ALL the things. DataOps advocate. Competitive gamer.</sup>
+### Hi, I'm Aaron! &nbsp;&nbsp; <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/> &nbsp;&nbsp; I automate ALL the things. DataOps advocate. Competitive gamer.</sup>
+
+![](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)
 
 ----
 
