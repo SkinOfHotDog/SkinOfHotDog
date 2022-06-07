@@ -1,7 +1,5 @@
 ### Hi, I'm Aaron! &nbsp;&nbsp; <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/> &nbsp;&nbsp; I automate ALL the things. DataOps advocate. Competitive gamer.</sup>
 
-![](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)
-
 ----
 
 ![languages](https://img.shields.io/static/v1?label=&message=languages:&color=555&style=flat-square)
