@@ -10,12 +10,15 @@
 ![MySQL](https://img.shields.io/static/v1?logo=MySQL&label=&message=MySQL&color=111&logoColor=AAA&style=flat-square&link=)
 
 ![tools](https://img.shields.io/static/v1?label=&message=tools:&color=555&style=flat-square)
-![Jupyter](https://img.shields.io/static/v1?logo=Jupyter&label=&message=Jupyter&color=111&logoColor=AAA&style=flat-square)
 ![Numpy](https://img.shields.io/static/v1?logo=Numpy&label=&message=Numpy&color=111&logoColor=AAA&style=flat-square&link=)
 ![Pandas](https://img.shields.io/static/v1?logo=Pandas&label=&message=Pandas&color=111&logoColor=AAA&style=flat-square&link=)
 ![SciPy](https://img.shields.io/static/v1?logo=SciPy&label=&message=SciPy&color=111&logoColor=AAA&style=flat-square&link=)
+![Apache Spark](https://img.shields.io/badge/apache%20spark-%23E25A1C.svg?&style=flat-square&logo=apache%20spark&logoColor=white&color=111)
+![Databricks](https://img.shields.io/badge/databricks-%23FF3621.svg?&style=flat-square&logo=databricks&logoColor=white&color=111)
+![Jupyter](https://img.shields.io/static/v1?logo=Jupyter&label=&message=Jupyter&color=111&logoColor=AAA&style=flat-square)
+![Docker](https://img.shields.io/static/v1?logo=docker&label=&message=docker&color=111&logoColor=AAA&style=flat-square)
 ![Plotly](https://img.shields.io/static/v1?logo=Plotly&label=&message=Plotly&color=111&logoColor=AAA&style=flat-square&link=)
-![docker](https://img.shields.io/static/v1?logo=docker&label=&message=docker&color=111&logoColor=AAA&style=flat-square)
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=heroku&logoColor=white&color=111)
 
 **MS Data Science @ Denver University** &#12299;_Leveling up my automation and anomaly detection skills with ML_
 <br/>
