@@ -1,4 +1,4 @@
-### Hi, I'm Aaron! &nbsp;&nbsp; <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/> &nbsp;&nbsp; I automate ALL the things. DataOps advocate. Competitive gamer.</sup>
+### Hi, I'm Aaron! &nbsp;&nbsp; <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/> &nbsp;&nbsp; I automate ALL the things. MLOps advocate.</sup>
 
 ----
 
@@ -22,7 +22,6 @@
 
 **MS Data Science @ Denver University** &#12299;_Leveling up my automation and anomaly detection skills with ML_
 <br/>
-**Competitive Gamer** &#12299;_Obsessed with combining esports and data science_
 
 <br/>
 
