@@ -23,8 +23,6 @@
 **MS Data Science @ Denver University** &#12299;_Leveling up my automation and anomaly detection skills with ML_
 <br/>
 
-<br/>
-
 ----
 <a href="https://linkedin.com/in/aaron-stopher">
   <img align="left" alt="Aaron's LinkedIn" width="25px" src="https://www.svgrepo.com/show/75820/linkedin.svg"/>
