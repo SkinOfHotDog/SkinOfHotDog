@@ -25,6 +25,8 @@
 
 **MS Data Science @ Denver University** &#12299;_Leveling up my automation and anomaly detection skills with ML_
 <br/>
+**Competitive Gamer** &#12299;_Interested in combining esports and data science_
+<br/>
 
 ----
 <a href="https://linkedin.com/in/aaron-stopher">
