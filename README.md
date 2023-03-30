@@ -22,6 +22,11 @@
 ![Plotly](https://img.shields.io/static/v1?logo=Plotly&label=&message=Plotly&color=111&logoColor=AAA&style=flat-square&link=)
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=heroku&logoColor=white&color=111)
 ![Docker](https://img.shields.io/static/v1?logo=docker&label=&message=docker&color=111&logoColor=AAA&style=flat-square)
+![Asyncio](https://img.shields.io/static/v1?label=&message=Asyncio&color=111&style=flat-square)
+![React.js](https://img.shields.io/static/v1?label=&message=React.js&color=111&style=flat-square&logo=React&logoColor=AAA)
+![Django](https://img.shields.io/static/v1?label=&message=Django&color=111&style=flat-square&logo=Django&logoColor=white)
+![FastAPI](https://img.shields.io/static/v1?label=&message=FastAPI&color=111&style=flat-square&logo=FastAPI&logoColor=AAA)
+![OpenAPI](https://img.shields.io/static/v1?label=&message=OpenAPI&color=111&style=flat-square&logo=OpenAPI-Initiative&logoColor=AAA)
 
 **MS Data Science @ Denver University** &#12299;_Leveling up my automation and anomaly detection skills with ML_
 <br/>
