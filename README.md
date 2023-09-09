@@ -8,6 +8,8 @@
 ![Javascript](https://img.shields.io/static/v1?logo=Javascript&label=&message=Javascript&color=111&logoColor=AAA&style=flat-square&link=)
 ![MongoDB](https://img.shields.io/static/v1?logo=MongoDB&label=&message=MongoDB&color=111&logoColor=AAA&style=flat-square&link=)
 ![MySQL](https://img.shields.io/static/v1?logo=MySQL&label=&message=MySQL&color=111&logoColor=AAA&style=flat-square&link=)
+![mojo](https://img.shields.io/static/v1?logo=Fireship&label=&message=mojo&color=111&logoColor=AAA&style=flat-square&link=)
+
 
 ![tools](https://img.shields.io/static/v1?label=&message=tools:&color=555&style=flat-square)
 ![Numpy](https://img.shields.io/static/v1?logo=Numpy&label=&message=Numpy&color=111&logoColor=AAA&style=flat-square&link=)
