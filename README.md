@@ -33,9 +33,9 @@
 ![FastAPI](https://img.shields.io/static/v1?label=&message=FastAPI&color=111&style=flat-square&logo=FastAPI&logoColor=AAA)
 ![OpenAPI](https://img.shields.io/static/v1?label=&message=OpenAPI&color=111&style=flat-square&logo=OpenAPI-Initiative&logoColor=AAA)
 
-**MS Data Science @ Denver University** &#12299;_Leveling up my automation and anomaly detection skills with ML_
+**MS Data Science @ Denver University** &#12299;_Enhancing my skills in automation and AI applications to drive business value_
 <br/>
-**Competitive Gamer** &#12299;_Interested in combining esports and data science_
+**Competitive Gamer** &#12299;_Dedicated to applying AI for practical real-world applications_
 <br/>
 
 ----
