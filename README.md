@@ -1,4 +1,4 @@
-### Hi, I'm Aaron! &nbsp;&nbsp; <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/> &nbsp;&nbsp; I build cool things.</sup>
+### Hi, I'm Aaron! &nbsp;&nbsp; <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/> &nbsp;&nbsp; I like to build cool things.</sup>
 
 ----
 
@@ -35,7 +35,7 @@
 
 **MS Data Science @ Denver University** &#12299;_Mastering automation and AI applications to drive business value_
 <br/>
-**Competitive Gamer** &#12299;_Dedicated to applying AI for practical real-world applications_
+**Full Stack Engineer** &#12299;_Over 10 years of automation & programming experience_
 <br/>
 
 ----
