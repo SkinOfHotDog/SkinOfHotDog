@@ -9,6 +9,7 @@
 ![MongoDB](https://img.shields.io/static/v1?logo=MongoDB&label=&message=MongoDB&color=111&logoColor=AAA&style=flat-square&link=)
 ![MySQL](https://img.shields.io/static/v1?logo=MySQL&label=&message=MySQL&color=111&logoColor=AAA&style=flat-square&link=)
 ![PostgreSQL](https://img.shields.io/static/v1?logo=postgresql&label=&message=postgresql&color=111&logoColor=AAA&style=flat-square&link=)
+![terraform](https://img.shields.io/static/v1?logo=terraform&label=&message=terraform&color=111&logoColor=AAA&style=flat-square&link=)
 ![mojo](https://img.shields.io/static/v1?logo=Fireship&label=&message=mojo&color=111&logoColor=AAA&style=flat-square&link=)
 ![rust](https://img.shields.io/static/v1?logo=rust&label=&message=rust&color=111&logoColor=AAA&style=flat-square&link=)
 
