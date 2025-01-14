@@ -16,6 +16,7 @@
 ![tools](https://img.shields.io/static/v1?label=&message=tools:&color=555&style=flat-square)
 ![Numpy](https://img.shields.io/static/v1?logo=Numpy&label=&message=Numpy&color=111&logoColor=AAA&style=flat-square&link=)
 ![Pandas](https://img.shields.io/static/v1?logo=Pandas&label=&message=Pandas&color=111&logoColor=AAA&style=flat-square&link=)
+![Polars](https://img.shields.io/static/v1?logo=Polars&label=&message=Polars&color=111&logoColor=AAA&style=flat-square&link=)
 ![Apache Spark](https://img.shields.io/badge/apache%20spark-%23E25A1C.svg?&style=flat-square&logo=apache%20spark&logoColor=white&color=111)
 ![Kafka](https://img.shields.io/static/v1?logo=Kafka&label=&message=Kafka&color=111&logoColor=AAA&style=flat-square&link=)
 ![Databricks](https://img.shields.io/badge/databricks-%23FF3621.svg?&style=flat-square&logo=databricks&logoColor=white&color=111)
